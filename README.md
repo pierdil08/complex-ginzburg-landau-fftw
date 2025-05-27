@@ -9,13 +9,12 @@ The equation takes the form:
 
 ## ⚙️ Tools Used
 - Language: C
-- Libraries: FFTW3, GNUplot
-- HPC system: Quest (Northwestern Supercomputer)
+- Libraries: FFTW3
+- HPC system: Lagrange @ Northwestern
 
 ## 🚀 Features
 - FFT-based spectral solver
 - RK4 time integration
-- Parallelized output
 - Performance tested with varying N
 
 ## 📈 Results
