@@ -21,10 +21,6 @@ The equation takes the form:
 ## 📈 Results
 Simulation shows the emergence of spiral wave patterns and phase separation.
 
-<p align="center">
-  <img src="plots/spirals_t10000.png" width="400">
-</p>
-
 ## 🛠️ How to Run
 ```bash
 make
